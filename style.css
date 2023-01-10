@@ -1,0 +1,366 @@
+.SEC1 {
+    background-image: url(bc.jpg);
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    bgp
+}
+
+h1 {
+    float: left;
+    margin-left: 20px;
+
+}
+
+.a1 {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    float: right;
+    padding-top: 50px;
+    margin-right: 20px;
+    font-weight: bold bottom: 10px;
+}
+
+.main {
+    text-align: center;
+    display: block;
+    padding-top: 14%;
+    color: beige;
+    height: 30px;
+    position: relative;
+
+}
+
+.p1 {
+    font-size: 25px;
+}
+
+.p2 {
+    font-size: 90px;
+    position: relative;
+    bottom: 60px;
+}
+
+.p3 {
+    font-size: 25px;
+    padding-bottom: 20px;
+    position: relative;
+    bottom: 100px;
+
+}
+
+.a2 {
+    font-weight: bold;
+    text-decoration: none;
+    color: beige;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding-top: 10px;
+    position: relative;
+    bottom: 70px;
+}
+
+.a2:hover {
+    background-color: #fff;
+    transition: 0.3s;
+    color: black;
+}
+
+.Learn {
+    padding: 20px;
+    background-color: brown;
+}
+
+.contact {
+    padding: 20px;
+    margin-left: 10px;
+}
+
+.sec-1 {
+    display: flex;
+    position: relative;
+}
+
+.sec {
+    position: relative;
+    top: 50px;
+    width: 600px;
+    height: 600px;
+    margin-left: 20px;
+    float: left;
+}
+
+
+.who {
+    position: relative;
+    top: 40px;
+    margin-right: 30px;
+    margin-left: 40px;
+    left: 80px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
+.p4 {
+    text-align: justify;
+    color: gray;
+}
+
+.li1 {
+    list-style-image: url(ennv.png);
+
+
+}
+
+.li2 {
+    list-style-image: url(ppl.png);
+}
+
+.li3 {
+    list-style-image: url(heart.png);
+}
+
+.li4 {
+    list-style-image: url(true.png);
+}
+
+ol {
+    color: gray;
+    position: relative;
+    left: 30px;
+}
+
+.li0:hover {
+    background-color: burlywood;
+    transition: 1s;
+    opacity: 0.8;
+    padding: 20px;
+    border-radius: 50px;
+    color: black;
+    cursor: pointer;
+    overflow: hidden;
+    list-style-position: inside;
+
+
+
+}
+
+.sec4 {
+    position: relative;
+    top: 50px;
+    width: 600px;
+    height: 400px;
+    margin-left: 20px;
+    float: right;
+    right: 80px;
+
+}
+
+.bcc {
+    background-color: beige;
+    width: 1400px;
+    height: 500px;
+    padding-left: 34.5px;
+    padding-right: 34.5px;
+    position: relative;
+    right: 150px;
+}
+
+
+.who2 {
+    position: relative;
+    top: 80px;
+    right: 7%;
+    margin-left: 140px;
+}
+
+.p5 {
+    text-align: justify;
+    color: gray;
+    line-height: 30px;
+}
+
+caption {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.cap1 {
+    font-size: 50px;
+}
+
+.cap2 {
+    color: gray;
+    font-size: 20px;
+}
+
+.tr1 {
+    text-align: center;
+}
+
+.hov1:hover {}
+
+
+.tr2 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.tr3 {
+    text-align: center;
+    color: gray;
+    padding-bottom: 20px;
+}
+
+td,
+tr {
+    padding: 15px;
+}
+
+.final-sec {
+    background-color: whitesmoke;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    width: 1250px;
+}
+
+.map1 {
+    float: right;
+    position: relative;
+    bottom: 340px;
+    width: 600px;
+}
+
+.part3 {
+    margin-left: 20px;
+    line-height: 30px;
+}
+
+.pr3 {
+    color: grey;
+}
+
+.ol-final {
+    line-height: 45px;
+    right: 40px;
+}
+
+.liA {
+    list-style-image: url(map.png);
+}
+
+.liA:hover {
+    background-color: #8AC3DB;
+    color: black;
+    border-radius: 10px 100px;
+    list-style-position: inside;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    transition: 0.2;
+}
+}
+
+.liB {
+    list-style-image: url(telephone.png);
+}
+
+.liB:hover {
+    background-color: #8AC3DB;
+    color: black;
+    border-radius: 10px 100px;
+    list-style-position: inside;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    transition: 0.2;
+}
+}
+
+.liC {
+    list-style-image: url(headphone.png);
+}
+
+.liC:hover {
+    background-color: #8AC3DB;
+    color: black;
+    border-radius: 10px 100px;
+    list-style-position: inside;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    transition: 0.2;
+}
+}
+
+.liD {
+    list-style-image: url(email.png);
+}
+
+.liD:hover {
+    background-color: #8AC3DB;
+    color: black;
+    border-radius: 10px 100px;
+    list-style-position: inside;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    transition: 0.2;
+}
+
+footer {
+    background-color: #564b44;
+    width: 1000px height: 1500px;
+
+}
+
+.container1 {
+    width: 300px;
+    padding-left: 50px;
+    padding-top: 30px;
+    margin: 10px;
+}
+
+.footer-row {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-col {
+    margin-left: 210px;
+    position: relative;
+    left: 350px;
+    text-align: center;
+}
+
+
+hr {
+    width: 30%;
+    text-align: left;
+    margin-left: 0px;
+    color: black;
+}
+
+.final {
+    padding: 20px;
+    text-align: center;
+    background-color: #362E2C;
+}
+
+ol {
+    text-align: justify;
+}
+
+li {
+    text-align: left;
+}
